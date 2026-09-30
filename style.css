@@ -314,6 +314,7 @@ padding-top: 100px;
 .lesson-card.deviating {
     background: #f0f7ff;
     border: 2px solid #2563eb;
+    min-height: 66.667px;
 }
 
 .lesson-card.volgende {
